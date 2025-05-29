@@ -22,7 +22,7 @@
   <br />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker" height="45" />
   <br />
-  <img src="https://skillicons.dev/icons?i=trello,jira,github project" height="45" />
+  <img src="https://skillicons.dev/icons?i=trello,jira" height="45" />
 </p>
 
 ---
