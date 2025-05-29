@@ -30,7 +30,6 @@
 ## 📚 Certifications
 
 - 🟢 **Certificat SQL (Intermediate)** – HackerRank  
-/*- 🟢 **Agile Project Management** – Atlassian*/
 
 ---
 
