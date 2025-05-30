@@ -7,7 +7,7 @@
 ## 👩‍💻 À propos de moi
 
 - 🎓 Formation professionnelle en Développement Web Full-Stack – UM6P (YouCode Maroc)  
-- 👩‍💻 Développeuse Full-Stack (Laravel, JavaScript/TypeScript, Python, React, Tailwind CSS)  
+- 👩‍💻 Développeuse Full-Stack (Laravel, JavaScript/TypeScript, Java, Python, React, Tailwind CSS)  
 - 🤖 Enthousiaste de Machine Learning, vision par ordinateur et smart cities  
 - 📬 Contact : **falouane38@gmail.com**
 
