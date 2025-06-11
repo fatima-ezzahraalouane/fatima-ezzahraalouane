@@ -7,8 +7,7 @@
 ## 👩‍💻 À propos de moi
 
 - 🎓 Formation professionnelle en Développement Web Full-Stack – UM6P (YouCode Maroc)  
-- 👩‍💻 Développeuse Full-Stack (Laravel, JavaScript/TypeScript, Java, Python, React, Tailwind CSS)  
-- 🤖 Enthousiaste de Machine Learning, vision par ordinateur et smart cities  
+- 👩‍💻 Développeuse Full-Stack (Laravel, JavaScript, React, Tailwind CSS)  
 - 📬 Contact : **falouane38@gmail.com**
 
 ---
@@ -16,7 +15,7 @@
 ## 🧰 Stack Technique
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,py,java,html,css,sql" height="45" />
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,sql" height="45" />
   <br />
   <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,figma" height="45" />
   <br />
