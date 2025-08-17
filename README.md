@@ -21,7 +21,7 @@
   <br />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,php,js,c,ts" height="45" />
   <br />
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,vercel" height="45" />
   <br />
   <img src="https://skillicons.dev/icons?i=figma,git,github,docker,postman,gitlab" height="45" />
 </p>
