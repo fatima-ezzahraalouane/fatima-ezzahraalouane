@@ -15,13 +15,13 @@
 ## 🧰 Stack Technique
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,html,css,sql" height="45" />
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,sql,next" height="45" />
   <br />
   <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,figma" height="45" />
   <br />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker" height="45" />
   <br />
-  <img src="https://skillicons.dev/icons?i=trello,jira" height="45" />
+  <img src="https://skillicons.dev/icons?i=trello,jira,supabase" height="45" />
 </p>
 
 ---
