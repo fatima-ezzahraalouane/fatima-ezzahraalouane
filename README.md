@@ -17,6 +17,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react,next,supabase" height="45" />
   <br />
+  <img src="https://skillicons.dev/icons?i=java,python" height="45" />
+  <br />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,php,js" height="45" />
   <br />
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css" height="45" />
