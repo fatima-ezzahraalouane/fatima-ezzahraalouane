@@ -21,7 +21,7 @@
   <br />
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css" height="45" />
   <br />
-  <img src="https://skillicons.dev/icons?i=figma,git,github,docker" height="45" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,docker,postman" height="45" />
 </p>
 
 ---
