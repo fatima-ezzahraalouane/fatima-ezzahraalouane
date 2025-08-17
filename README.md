@@ -23,7 +23,7 @@
   <br />
   <img src="https://skillicons.dev/icons?i=figma,git,github,docker" height="45" />
   <br />
-   <img src="https://skillicons.dev/icons?i=postman,GitLab,c,ts" height="45" />
+   <img src="https://skillicons.dev/icons?i=postman,gitlab,c,ts" height="45" />
 </p>
 
 ---
