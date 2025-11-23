@@ -7,7 +7,9 @@
 ## 👩‍💻 À propos de moi
 
 - 🎓 Formation professionnelle en Développement Web Full-Stack – UM6P (YouCode Maroc)  
+- 🏫 Actuellement en 2ème année, spécialité **Java**  
 - 👩‍💻 Développeuse Full-Stack (Laravel, JavaScript, React, Tailwind CSS)  
+- 🔗 Portfolio : https://fatima-ezzahra-alouane.vercel.app/  
 - 📬 Contact : **falouane38@gmail.com**
 
 ---
@@ -16,8 +18,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react,next,supabase,java,python" height="45" />
-<!--   <br />
-  <img src="https://skillicons.dev/icons?i=java,python" height="45" /> -->
   <br />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,php,js,c,ts" height="45" />
   <br />
@@ -50,4 +50,5 @@
   <a href="https://www.linkedin.com/in/fatima-ezzahra-alouane/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://github.com/fatima-ezzahraalouane"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
   <a href="https://discord.com/users/fatimaezzahraalouane"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
+  <a href="https://fatima-ezzahra-alouane.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="40" /></a>
 </p>
