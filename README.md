@@ -164,11 +164,11 @@ _💡 Explorez mes projets sur mon portfolio pour voir mes réalisations complè
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falouane38@gmail.com)
+[![Email](https://img.shields.io/badge/_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falouane38@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ezzahra-alouane/)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://fatima-ezzahra-alouane.vercel.app/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatima-ezzahraalouane)
-[![Discord](https://img.shields.io/badge/💬_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/fatimaezzahraalouane)
+[![Portfolio](https://img.shields.io/badge/_Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://fatima-ezzahra-alouane.vercel.app/)
+[![GitHub](https://img.shields.io/badge/_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatima-ezzahraalouane)
+[![Discord](https://img.shields.io/badge/_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/fatimaezzahraalouane)
 
 <br/>
 
@@ -193,7 +193,5 @@ _💡 Explorez mes projets sur mon portfolio pour voir mes réalisations complè
 ### ⭐️ _Merci pour votre visite !_
 
 **Si vous aimez mes projets, n'oubliez pas de laisser une étoile** ✨
-
-_Dernière mise à jour : Novembre 2025_ 🚀
 
 </div>
