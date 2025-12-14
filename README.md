@@ -29,7 +29,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👩‍💻 Qui suis-je ?
+### 👩‍💻 Qui suis-je ? 
 
 ```yaml
 nom: Fatima-Ezzahra Alouane
@@ -78,6 +78,7 @@ localisation: Maroc 🇲🇦
 
 ### 🎨 Frontend Development
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -95,14 +96,14 @@ localisation: Maroc 🇲🇦
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E? style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🛠️ Outils & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED? style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -122,7 +123,7 @@ localisation: Maroc 🇲🇦
 <div align="center">
 
 | 🎖️ Certification | 🏢 Plateforme | 📊 Niveau |
-|:----------------|:-------------|:---------|
+|: ----------------|:-------------|:---------|
 | SQL Certificate | HackerRank | Intermediate |
 | Full-Stack Development | YouCode - UM6P | Professional |
 
@@ -148,7 +149,7 @@ localisation: Maroc 🇲🇦
 
 <div align="center">
 
-<a href="https://fatima-ezzahra-alouane.vercel.app/" target="_blank">
+<a href="https://fatima-ezzahra-alouane.vercel. app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Découvrir_Mon_Portfolio-FF6B9D?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="portfolio button" height="50" />
 </a>
 
@@ -168,7 +169,7 @@ _💡 Explorez mes projets sur mon portfolio pour voir mes réalisations complè
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ezzahra-alouane/)
 [![Portfolio](https://img.shields.io/badge/_Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://fatima-ezzahra-alouane.vercel.app/)
 [![GitHub](https://img.shields.io/badge/_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatima-ezzahraalouane)
-[![Discord](https://img.shields.io/badge/_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/fatimaezzahraalouane)
+[![Discord](https://img.shields.io/badge/_Discord-7289DA? style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/fatimaezzahraalouane)
 
 <br/>
 
@@ -188,7 +189,7 @@ _💡 Explorez mes projets sur mon portfolio pour voir mes réalisations complè
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,16,12,6&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=24,20,16,12,6&height=120&section=footer" width="100%" />
 
 ### ⭐️ _Merci pour votre visite !_
 
